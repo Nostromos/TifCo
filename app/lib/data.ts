@@ -215,22 +215,3 @@ export async function fetchFilteredCustomers(query: string) {
     throw new Error('Failed to fetch customer table.');
   }
 }
-
-export async function fetchTotalPaidInvoices(query: string) {
-  try {
-    const data = await sql<InvoicesTable>`
-    SELECT 
-      COUNT(*)
-    FROM invoices
-    WHERE
-      status = 'paid'
-    `;
-
-    const totalPaidInvoices = data.rows[0].count;
-    console.log(data.rows[0]);
-    return totalPaidInvoices;
-  } catch (err) {
-    console.error('Something fucked up', err);
-    throw new Error('Failed to fetch total paid invoices');
-  }
-}
