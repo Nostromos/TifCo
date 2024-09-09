@@ -1,5 +1,15 @@
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: {
+    template: "%s | TifCo Dashboard",
+    default: "TifCo Dashboard",
+  },
+  description: "The official dashboard for all fans & simps of TifCo.",
+  metadataBase: new URL('https://instagram.com/supsui'),
+};
 
 export default function RootLayout({
   children,
