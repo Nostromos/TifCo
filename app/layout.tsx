@@ -4,8 +4,8 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | TifCo Dashboard",
-    default: "TifCo Dashboard",
+    template: "%s | TifCo",
+    default: "TifCo",
   },
   description: "The official dashboard for all fans & simps of TifCo.",
   metadataBase: new URL('https://instagram.com/supsui'),
