@@ -8,30 +8,30 @@ Its a react frontend with next and tailwind for styling. Deployed on Vercel and 
 
 ## Status
 
-[x] Setup
-[x] Styling (Tailwind)
-[x] Font & Image optimization
-[x] layouts & pages
-[x] navigation & pagination
-[x] deployment & db setup
-[x] fetching data
-[x] static/dynamic rendering
-[x] streaming
-[x] ppr
-[x] search & more pagination
-[x] data mutation
-[x] error handling
-[x] accessibility
-[x] auth
-[x] metadata
-[x] MVP Complete
-[] Customer portal
-[] user profile & preferences
-[] seo
-[] custom reporting
-[] rbac
-[] dashboard builder (drag & drop)
-[] custom queries
+- [x] Setup
+- [x] Styling (Tailwind)
+- [x] Font & Image optimization
+- [x] layouts & pages
+- [x] navigation & pagination
+- [x] deployment & db setup
+- [x] fetching data
+- [x] static/dynamic rendering
+- [x] streaming
+- [x] ppr
+- [x] search & more pagination
+- [x] data mutation
+- [x] error handling
+- [x] accessibility
+- [x] auth
+- [x] metadata
+- [x] MVP Complete
+- [] Customer portal
+- [] user profile & preferences
+- [] seo
+- [] custom reporting
+- [] rbac
+- [] dashboard builder (drag & drop)
+- [] custom queries
 
 ## Screenshots
 
