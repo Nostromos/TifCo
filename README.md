@@ -37,32 +37,44 @@ Its a react frontend with next and tailwind for styling. Deployed on Vercel and 
 
 <details>
 <summary>Landing Page</summary>
+
 ![Screenshot of the landing page showing a header, text describing the dashboard, and a picture of Tif.](/readme/6.png)
+
 </details>
 
 <details>
 <summary>Login Page</summary>
+
 ![Screenshot of the login page showing company header and login form.](/readme/1.png)
+
 </details>
 
 <details>
 <summary>Dashboard Page/Home</summary>
+
 ![Screenshot of the dashboard page showing a top row of cards - collected payments, pending payments, total invoices, and total customers. Below that, there are two charts - Recent revenue and latest invoices.](/readme/5.png)
+
 </details>
 
 <details>
 <summary>Invoices Page</summary>
+
 ![Screenshot of the invoices page showing information about all the invoices including customer, amount, status, date, and two buttons - edit & delete.](/readme/4.png)
+
 </details>
 
 <details>
 <summary>Create/Edit Invoice Page</summary>
+
 ![Screenshot of the create/edit invoice page, allowing users to pick the customer, input amount, set status, and create or update/edit an invoice.](/readme/3.png)
+
 </details>
 
 <details>
 <summary>Customers Page</summary>
+
 ![Screenshot of customers page, showing a list of customers, their email, total invoices, outstanding balance, and total amount paid.](/readme/2.png)
+
 </details>
 
 
