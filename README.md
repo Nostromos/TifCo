@@ -80,17 +80,21 @@ Its a react frontend with next and tailwind for styling. Deployed on Vercel and 
 
 ## Installation & Setup
 ###### 
-(In terminal) Navigate to the folder you intend to install the app in.
-
+(In terminal) Navigate to the folder you intend to install the app in and clone the repo.
 ######
     git clone https://github.com/Nostromos/TifCo
-Clone the repo.
-######
-    pnpm install
+
 Install dependencies.
 ######
+    pnpm install
+
+Run the dev build OR
+######
     pnpm dev
-Get the dev build running.
+
+Get a production build and run it locally.
+######
+    pnpm build && pnpm start
 
 ## Codebase Overview
 
