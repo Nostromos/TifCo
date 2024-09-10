@@ -101,7 +101,7 @@ Get a production build and run it locally.
 <summary>Root</summary>
 <p>Root directory containing config files and some of the auth logic.</p>
 <details open>
-<summary>app</summary>
+<tab><tab><summary>app</summary>
 <p>Root directory containing config files and some of the auth logic.</p>
 </details>
 
