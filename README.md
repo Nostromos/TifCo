@@ -82,7 +82,7 @@ Its a react frontend with next and tailwind for styling. Deployed on Vercel and 
 ###### 
 (In terminal) Navigate to the folder you intend to install the app in and clone the repo.
 ######
-    git clone https://github.com/Nostromos/TifCo
+    git clone https://github.com/Nostromos/TifCo.git
 
 Install dependencies.
 ######
@@ -97,7 +97,20 @@ Get a production build and run it locally.
     pnpm build && pnpm start
 
 ## Codebase Overview
+<details open>
+<summary>Root</summary>
+<p>Root directory containing config files and some of the auth logic.</p>
+<details open>
+<summary>app</summary>
+<p>Root directory containing config files and some of the auth logic.</p>
+</details>
 
+<details open>
+<summary>public</summary>
+<p>Directory containing static images. Next processes these on `build` and ensures they're optimized for your platform.</p>
+</details>
+
+</details>
 
 ## Reflection
 
