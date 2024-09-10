@@ -25,13 +25,13 @@ Its a react frontend with next and tailwind for styling. Deployed on Vercel and 
 - [x] auth
 - [x] metadata
 - [x] MVP Complete
-- [] Customer portal
-- [] user profile & preferences
-- [] seo
-- [] custom reporting
-- [] rbac
-- [] dashboard builder (drag & drop)
-- [] custom queries
+- [ ] Customer portal
+- [ ] user profile & preferences
+- [ ] seo
+- [ ] custom reporting
+- [ ] rbac
+- [ ] dashboard builder (drag & drop)
+- [ ] custom queries
 
 ## Screenshots
 
