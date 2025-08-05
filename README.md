@@ -21,9 +21,6 @@
   </a>
 </p>
 
-This is a dashboard project I built to learn more about NextJS, Tailwind, React, Vercel, and a few other tools. It's pretty basic but fun to put together.
-
-It's a React frontend with Next.js and Tailwind for styling. Deployed on Vercel and using their Postgres for storage. It has auth, is fully responsive, and is a great base for me to add more interesting features.
 
 ## Overview
 
