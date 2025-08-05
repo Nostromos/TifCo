@@ -1,10 +1,22 @@
 import clsx from 'clsx';
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+  /** The content inside the button */
   children: React.ReactNode;
 }
 
-export function Button({ children, className, ...rest }: ButtonProps) {
+/**
+ * `Button` Component
+ *
+ * A reusable button component with default styling.
+ * Supports all standard button attributes via `ButtonProps`.
+ *
+ * @param {ButtonProps} props - The button properties.
+ * @param {React.ReactNode} props.children - The content inside the button.
+ * @param {string} [props.className] - Additional CSS classes for styling.
+ * @returns {JSX.Element} A styled button element.
+ */
+export function Button({ children, className, ...rest }: ButtonProps): JSX.Element {
   return (
     <button
       {...rest}
